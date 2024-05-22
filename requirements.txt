@@ -1,0 +1,2 @@
+pip install requests==2.32.2
+pyuseragents==1.0.5
